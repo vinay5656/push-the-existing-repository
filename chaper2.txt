@@ -1,0 +1,6 @@
+this is added after file is created
+//command was // type nul>filename//
+this command create empty file
+
+
+object oriented concepts of java 

@@ -1,0 +1,4 @@
+commmand for creating file //copy con testfile.txt//
+this command create file then you can add content to it
+
+collections in java
